@@ -3,6 +3,9 @@
 This project investigated the results of several different crowdfunded campaigns from different countries and various genres, noting trends in success rates based on campaign monetary goals and launch date. The investigation of this data set focused on the outcomes specifc to theatre kickstarters to provide conclusions that might provide insight into recommendations for future campaigns in this category.
 
 ### Technologies
+* Excel was used to create all Pivot tables and visuals
+
+
 ### Analysis
 #### Outcomes by goal
 When analyzing the theatre campaigns by monetary goal, ranges were created to determine success rates. Lower bound range focused on campaigns with a goal of less than $1000, while the largest range looked at campaigns with goals over $50,000. The ranges between these were $5000 increments. The visual below shows that campaigns with monetary goals less than $1000 had the highest success rates. While success rates declined in successive ranges, they remained above 50% until $20,000, where campaigns tended to fail at higher rates than they did succeed. There are two data points on the graph that may make the visual seem misleading. It should be worth noting that the data for these ranges represented less than 1% of total theatre campaigns, but was heavily represented on the graph. 
